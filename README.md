@@ -10,6 +10,6 @@ I will suggest to use PyInstaller for backdoor.py to make whole code as a single
       2)python -m PyInstaller --onefile --noconsole backdoor.py
 
 
-It's my humble request to not use this for personal benefits.This project is basically for knowledge purpose and testing our skills.
-DON'T MISUSE IT!
+# It's my humble request to not use this for personal benefits.This project is basically for knowledge purpose and testing our skills.
+# DON'T MISUSE IT!
 I will keep updating it with time...!
